@@ -1,0 +1,27 @@
+Metadata-Version: 2.1
+Name: mlProject
+Version: 0.0.0
+Summary: A small python package for ml app
+Home-page: https://github.com/Dhanyabahadur/wine_quality_E2E
+Author: Dhanyabahadur
+Author-email: dhanyabahadur2000@gmail.com
+Project-URL: Bug Tracker, https://github.com/Dhanyabahadur/wine_quality_E2E/issues
+License-File: LICENSE
+
+# wine_quality_E2E
+This contain end 2 end implementation on wine quality dataset present on kaggle.
+
+
+```bash
+conda create -n mlproj python=3.8 -y
+```
+
+
+```bash
+conda activate mlproj
+```
+
+
+```bash
+pip install -r requirements.txt
+```
